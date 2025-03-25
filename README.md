@@ -1,0 +1,1 @@
+A Hackathon organized by SPIT-CSI where our Problem Statement was to create a Super-Charged Trading Engine which allows 1 million transaction per second. Used Django and Python Script as well as HTML, CSS and Bootstrap.
